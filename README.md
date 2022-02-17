@@ -1,8 +1,7 @@
-# UltraDOM V1 original - **in teardown**
+# UltraDOM V1 original - **deprecated**
 
-- Currently migrated / rebuilding in ReactJS
-- This repo is being torn down and can be found here
-[UltraDOM](https://github.com/baufometic/ultradom/)
+- Currently being rebuilt for the web
+- The new project can be found [here](https://github.com/baufometic/ultradom/)
 
 <br/>
 
@@ -14,6 +13,10 @@
 <br/>
 
 ## 🚀 About Me
-I'm a trader, developer, and dad to my son Maximus.<br/>
+I'm Pete Savva, a day trader, developer at [Tech & Tribal](https://techandtribal.com), and dad to my son Maximus.
 
-- [Try the Beta](https://techandtribal.com/register-for-ultradom-beta)
+[GitHub](https://www.github.com/baufometic)<br/>
+![GitHub followers](https://img.shields.io/github/followers/baufometic?style=social)
+
+[Twitter](https://twitter.com/techandtribal)<br/>
+![Twitter Follow](https://img.shields.io/twitter/follow/techandtribal?style=social)
